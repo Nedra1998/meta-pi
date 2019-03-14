@@ -1,7 +1,8 @@
 #!/bin/bash
 
 START=1
-MAX=224399
+# MAX=224399
+MAX=314159
 STEP=500
 
 if ! [[ -z "$1" ]]; then
